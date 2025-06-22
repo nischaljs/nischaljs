@@ -14,6 +14,16 @@
   
 </div>
 
+### 🏆 Techy Achievements
+
+<div align="center">
+
+|         |          |
+|---------|----------|
+| **🏆 Runner-Up**<br><small>Access Tech Fest 7.0 Hackathon</small> | **🥇 Winner**<br><small>IICQuest 3.0 Hackathon</small> |
+
+</div>
+
 ### 💻 Tech 
 
 <div align="center">
