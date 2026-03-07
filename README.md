@@ -1,12 +1,4 @@
 <div align="center">
-  <img src="[https://pbs.twimg.com/profile_banners/1310097900865634304/1734350948/1500x500](https://media.licdn.com/dms/image/v2/D4D16AQHXph0UnL7PDw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734351079314?e=1770249600&v=beta&t=mhOXzql8UZqBWwO7ou8kmk7oVkqxvEz8yWhe0uPlNvg)" alt="Banner" width="100%"/>
-</div>
-
-<h1 align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHXph0UnL7PDw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734351079314?e=1770249600&v=beta&t=mhOXzql8UZqBWwO7ou8kmk7oVkqxvEz8yWhe0uPlNvg" alt="Typing SVG" />
-</h1>
-
-<div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nischaljs/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/nischaljs)
